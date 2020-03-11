@@ -1,0 +1,6 @@
+authors_name,book_title,inventory_number,genre,age_rating,num_books_in_lib,num_books_on_hand
+Pushkin A. S.,Eugene Onegin,4536,novel,10,3,1
+Tolstoy L. N.,War and Peace,2389,novel,12,2,2
+Turgenev I.S.,MuMu,5623,story,6,1,1
+Pushkin A. S.,Boris Godunov,8711,drama,10,4,0
+Astafiev P. K.,Ceceron,8711,story,12,3,0
